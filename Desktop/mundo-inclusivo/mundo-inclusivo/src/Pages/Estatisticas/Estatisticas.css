@@ -1,0 +1,11 @@
+.imagem-inicio-estatisticas { 
+    width: 100%;
+    height: 600px;
+    display: block;
+    margin-bottom: 16px!important;   
+}
+
+.conteudo-estatisticas p {
+    margin-bottom: 16px!important;
+}
+

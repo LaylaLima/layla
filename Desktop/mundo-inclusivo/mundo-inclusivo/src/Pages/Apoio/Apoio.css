@@ -1,0 +1,28 @@
+.titulo-apoio{
+    color: #1866B3;
+    font-size: 25px;
+    font-weight: bold;
+    margin: 50px;
+    margin-bottom: 0;
+}
+
+.container-apoio {
+    display: inline-flex;
+    margin: 50px;
+    
+}
+
+.texto1, .texto2 {
+    color: #333333;
+    font-size: 18px;
+    margin-right: 250px;
+    box-sizing: border-box;
+}
+
+
+.linha {
+    border-bottom: 1px solid #1866B3; 
+    width: 100%;
+    padding-bottom: 5px; 
+    margin-bottom: 5px; 
+}

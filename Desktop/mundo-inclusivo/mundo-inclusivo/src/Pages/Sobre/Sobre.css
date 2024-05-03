@@ -1,0 +1,66 @@
+
+.Titulo-Sobre {
+    color: #2267ad;
+    font-size: 25px;
+    font-weight: bold;
+    margin: center;
+    margin-bottom: 0px;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+  
+}
+
+.missao, .visao, .valores {
+    color: #2267ad;
+    font-size: 25px;
+    font-weight: bold;
+    margin: center;
+    margin-bottom: 0px;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+}
+
+ul {
+    list-style: none;
+}
+
+p, ul{
+    
+    margin: center;
+    margin-bottom: 0px;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+
+strong {
+    color: #2267ad;
+}
+
+h1{
+    color: #2267ad;
+    font-size: 25px;
+    font-weight: bold;
+    margin: 50px;
+}
+
+img {
+    border-radius: 100%;
+    width: auto;
+    height: 150px;
+    margin: 50px;
+    align-items: center;
+}
+
+
+.text-imagem{
+    width: 20%; 
+    margin-right: 50px;
+}
+
+.text-imagem2{
+    width: 20%; 
+    margin-right: 50px;
+}
