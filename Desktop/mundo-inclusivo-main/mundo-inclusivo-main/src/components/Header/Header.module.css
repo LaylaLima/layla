@@ -1,0 +1,46 @@
+.header {
+    width: 100%;
+    height: 130px;
+    background-color: #1866B3;
+    color: white;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.header span {
+    font-size: 1.5rem; 
+    font-weight: bold;
+}
+
+.header a {
+    text-decoration: none;
+    color: white;
+    padding-right: 1rem;
+    font-size: 1rem; /* 18px */
+}
+
+.header a:hover {
+    color:  blue; 
+    transition: color 0.3s ease;
+}
+
+.header button {
+    width: 250px;
+    height: 50px;
+    background-color: white;
+    border: none;
+    color: #1866B3;
+    display: inline-block;
+    font-size: 18px;
+    cursor: pointer;
+    border-radius: 15px;
+}
+
+.header button:hover {
+    background-color: blue;
+  }
+
+  
+  
